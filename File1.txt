@@ -1,2 +1,1 @@
-This is some text
-test2
+adding some text to the file
